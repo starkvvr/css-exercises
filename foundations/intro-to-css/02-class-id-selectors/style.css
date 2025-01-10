@@ -1,0 +1,23 @@
+/* style.css */
+/* div is even p is odd */
+
+.odd,
+.odd2 { 
+background-color: pink;
+font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.odd2 {
+    font-size: 24px;
+}
+
+#one {
+color: blue;
+font-size: 36px;
+}
+
+#two{
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
